@@ -25,7 +25,7 @@ products-srp-demo/
 │ └─ products.php
 └─ storage/
 └─ products.txt
-
+```
 ---
 
 ## ⚙️ Requisitos
