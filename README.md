@@ -5,7 +5,7 @@ Sistema simples de **cadastro e listagem de produtos** em PHP puro, aplicando **
 ---
 
 ## 🗂 Estrutura do projeto
-
+```
 products-srp-demo/
 ├─ composer.json
 ├─ vendor/
