@@ -1,0 +1,17 @@
+{
+    "name": "cristhian/solid-srp-project",
+    "description": "Projeto do 0 P2",
+    "license": "MIT",
+    "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+    },
+    "authors": [
+        {
+            "name": "cjbak07",
+            "email": "cristhianheber13@gmail.com"
+        }
+    ],
+    "require": {}
+}
